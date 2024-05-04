@@ -1,5 +1,4 @@
-# libwebsockets-minimal-example
-A Minimal Example for C websockets using the libwebsockets library
+# Minimal C Networking Examples
 
->[!WARNING]
->This example is yet to be improved, documented and commented
+- [libwebsockets](libwebsockets/): Networking using the libwebsockets library
+- [linux_socket](linux_socket/): Using the default Linux Sockets
